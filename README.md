@@ -56,7 +56,7 @@ Here are some of my top end-to-end analytics projects:
 | # | Project | Domain | Key Highlights |
 |---|--------|--------|---------------|
 | 1 | **[Customer Behavior Analytics](https://github.com/RyadulSeam/customer-behavior-analytics-powerbi)** | Retail / E-commerce | Customer segmentation, purchase trends, shipping impact |
-| 2 | **[Ubar Trip Analytics](https://github.com/RyadulSeam/ubar-trip-analysis-logistics)** | Logistics / Transportation | Time & location analysis, surge pricing insights |
+| 2 | **[Uber Trip Analytics](https://github.com/RyadulSeam/uber-trip-analysis-logistics)** | Logistics / Transportation | Time & location analysis, surge pricing insights |
 | 3 | **[Washington EV Insights](https://github.com/RyadulSeam/washington-ev-adoption-dashboard)** | Electric Vehicle | Adoption trends, geo-analysis, infrastructure |
 | 4 | **[Coffee Shop Sales Analytics](https://github.com/RyadulSeam/coffee-shop-sales-analytics)** | Retail / F&B | Revenue optimization, hourly trends, product performance |
 | 5 | **[Shopify E-commerce Performance](https://github.com/RyadulSeam/shopify-ecommerce-sales-dashboard)** | E-commerce | Sales, customer, product & regional analysis |
